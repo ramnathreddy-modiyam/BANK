@@ -51,7 +51,7 @@ public class BankMain extends javax.swing.JFrame {
         jMenuItem7 = new JMenuItem();
 
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setTitle("KARAN ONLINE BANK");
+        setTitle("RAM ONLINE BANK");
 
         jButton1.setText("Create Account");
         jButton1.addActionListener(new ActionListener() {
@@ -61,7 +61,7 @@ public class BankMain extends javax.swing.JFrame {
         });
 
         jLabel1.setFont(new Font("Microsoft Sans Serif", 1, 15)); // NOI18N
-        jLabel1.setText("WELCOME TO KARAN ONLINE BANK!");
+        jLabel1.setText("WELCOME TO RAM ONLINE BANK!");
 
         jButton2.setText("Deposit");
         jButton2.setMaximumSize(new Dimension(107, 23));
@@ -247,11 +247,11 @@ public class BankMain extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void jButton6ActionPerformed(ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
-        JOptionPane.showMessageDialog(null,"Created By KARAN\nkg0142001@gmail.com\n", "About", 1);
+        JOptionPane.showMessageDialog(null,"Created By RAM\n", "About", 1);
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jMenuItem3ActionPerformed(ActionEvent evt) {//GEN-FIRST:event_jMenuItem3ActionPerformed
-        JOptionPane.showMessageDialog(null,"Created By KARAN\nkg01420012001@gmail.com\n", "About", 1);
+        JOptionPane.showMessageDialog(null,"Created By RAM\n", "About", 1);
     }//GEN-LAST:event_jMenuItem3ActionPerformed
 
     private void jMenuItem4ActionPerformed(ActionEvent evt) {//GEN-FIRST:event_jMenuItem4ActionPerformed
